@@ -2,18 +2,24 @@
     "users" : [
         {
             "userId" : 1,
-            "email" : "bb",
-            "password" : "123"
+            "email" : "ndu@gmail.com",
+            "userName" : "Nguyễn Du Du",
+            "password" : "123",
+            "avt" : "localhost:3001/static/image/users/u1.jpg"
         },
         {
             "userId" : 2,
-            "email" : "aa",
-            "password" : "123"
+            "email" : "nchung@gmail.com",
+            "userName" : "Nguyễn Chung",
+            "password" : "123",
+            "avt" : "localhost:3001/static/image/users/u2.jpg"
         },
         {
             "userId" : 3,
-            "email" : "dudu",
-            "password" : "123"
+            "email" : "ParkBoYoung@gmail.com",
+            "userName" : "Park Bo Young",
+            "password" : "123",
+            "avt" : "localhost:3001/static/image/users/u3.jpg"
         }
     ]
 }
