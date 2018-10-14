@@ -16,7 +16,7 @@ app.use(bodyParser.urlencoded({     // to support URL-encoded bodies
 
 app.use("/static", express.static(__dirname + "/public"));
 
-//app.use(cors);
+app.use(cors());
 
 app.get('/', (req, res) => {
     var ret = {
