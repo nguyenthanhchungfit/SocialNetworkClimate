@@ -37,7 +37,7 @@
 
 	{
 		"feedId" : "f02",
-		"userName" : "Nguyen Du Du",
+		"userName" : "Nguyen Thanh Chung",
 		"content" : "Nguoi theo huong hoa may mu giang loi",
 		"topic" : "nuoc_dang",
 		"imageId" : 2,
@@ -77,6 +77,7 @@
 
 	{
 		"feedId" : "f03",
+		"userName" : "Park Bo Young",
 		"content" : "Lan suong khoi phoi phai dua buoc ai xa roi",
 		"topic" : "lu_lut",
 		"imageId" : 3,
