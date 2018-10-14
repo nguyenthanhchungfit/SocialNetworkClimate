@@ -3,15 +3,14 @@ import News from './../News/index'
 import './styles.css'
 
 const NewsFeed = () => {
+
   return(
     <div
       className='container-newsfeed'
     >
-      <News/>
-      <News/>
-      <News/>
-      <News/>
-      <News/>
+      <News no = {0}/>
+      <News no = {1}/>
+      <News no = {2}/>
     </div>
   )
 };
