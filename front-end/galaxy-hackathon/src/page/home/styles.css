@@ -9,5 +9,15 @@
 }
 
 .home-newsfeed{
+    position: relative;
+    left: 30%;
+    top: 55px;
+}
 
+.home-menu{
+
+}
+
+.home-sidebar{
+    top:55px;
 }

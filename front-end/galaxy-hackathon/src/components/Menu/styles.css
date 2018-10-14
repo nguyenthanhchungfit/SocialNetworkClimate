@@ -2,7 +2,7 @@
     background-color: #0f0f0f;
     color: white;
     padding: 10px;
-    position: fixed;
     width: 100%;
+    position: fixed;
     z-index: 1000;
 }

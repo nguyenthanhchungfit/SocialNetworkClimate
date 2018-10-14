@@ -14,13 +14,13 @@ const Home = () => {
     fluid
     className='container-home'
   >
-    <div>
+    <div className='home-menu'>
       <Row>
         <Menu/>
       </Row>
     </div>
     <Grid>
-      <Col md={3} sm={4} className='fixed'>
+      <Col md={3} sm={4} className='home-sidebar fixed'>
         <Info/>
         <SideBar/>
       </Col>
