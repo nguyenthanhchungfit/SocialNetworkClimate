@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f25276-0f65-44a1-9c01-93eef0748eec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Chart/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/FeedBack/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/FeedBack/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Group/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Group/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Info/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Info/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Menu/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Menu/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Menu/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Menu/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/News/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/News/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/News/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/News/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/NewsFeed/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/NewsFeed/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/SideBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/SideBar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/page/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/page/home/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/page/home/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/page/home/styles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
