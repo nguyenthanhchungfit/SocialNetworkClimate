@@ -1,0 +1,13 @@
+.container-home{
+    background-color: #ddd;
+}
+
+
+.fixed{
+    position: fixed !important;
+    z-index: 100;
+}
+
+.home-newsfeed{
+
+}
