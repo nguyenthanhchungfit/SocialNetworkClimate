@@ -2,15 +2,17 @@
     background-color: #ddd;
 }
 
+.text-area{
+    border: none;
+}
 
 .fixed{
     position: fixed !important;
     z-index: 100;
 }
 
-.home-newsfeed{
-    position: relative;
-    left: 30%;
+.home-news{
+    left: 25%;
     top: 55px;
 }
 
@@ -20,4 +22,10 @@
 
 .home-sidebar{
     top:55px;
+
+}
+
+.home-group{
+    top: 55px;
+    left: 75%;
 }

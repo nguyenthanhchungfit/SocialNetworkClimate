@@ -6,3 +6,11 @@
     position: fixed;
     z-index: 1000;
 }
+
+.menu-logo{
+    text-align: right;
+}
+
+.menu-search{
+    width: 100%;
+}

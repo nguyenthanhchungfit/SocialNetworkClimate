@@ -1,12 +1,8 @@
-# SocialNetworkClimate
+## Thông tin nhóm
+- Tên nhóm: Galaxy - Hackathon UNESCO2018
+- Họ tên: Hiếu, Chung, Du, Thảo
 
-## Team's information
-- Name: Galaxy - Hackathon Unesco 2019
-- Member: Hieu, Chung, Du, Thao
 ## Run app
-install: npm
-run command: npm start at 2 folder backend and front-end/galaxy-hackathon
-run app: localhost:3000
-
-
+Run-service: npm start ở folder backend and front-end/galaxy-hackathon
+Check: localhost:3000.
 

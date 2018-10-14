@@ -1,0 +1,38 @@
+.feedBack-container{
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.feedback-content{
+    margin-bottom: 15px;
+}
+
+.fb-located img{
+    width: 15px;
+    height: 15px;
+}
+
+.fb-located{
+    padding: 0 15px;
+}
+
+.fb-located span{
+    background-color: #328ca7;
+    padding: 2px 5px;
+    border-radius: 7px;
+    color: white;
+    border: 1px solid #ddd;
+    margin: 0 3px;
+}
+
+.fb-located{
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+.fb-located a:hover{
+    text-decoration: none;
+}

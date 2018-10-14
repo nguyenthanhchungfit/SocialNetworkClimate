@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f25276-0f65-44a1-9c01-93eef0748eec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Chart/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/FeedBack/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/FeedBack/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Group/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Group/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Info/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Info/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Menu/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Menu/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Menu/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/Menu/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/SideBar/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/SideBar/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/News/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/News/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/News/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/News/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/NewsFeed/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/NewsFeed/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/SideBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/components/SideBar/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/page/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/page/home/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/page/home/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end/galaxy-hackathon/src/page/home/styles.css" afterDir="false" />
     </list>
@@ -120,15 +128,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539482408326</updated>
-      <workItem from="1539482409923" duration="282000" />
+      <workItem from="1539482409923" duration="1478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282000" />
+    <option name="totallyTimeSpent" value="1478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -136,7 +145,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.46885246" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.19508196" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />

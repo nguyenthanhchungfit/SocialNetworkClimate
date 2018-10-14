@@ -8,3 +8,17 @@
     padding: 20px;
     text-align: center;
 }
+
+.fb-contact{
+    border-top: 1px solid #ddd;
+    padding-top: 15px;
+}
+
+.fb-btn-contact{
+    float: right;
+    margin-right: 20px;
+}
+
+.fb-img{
+    margin-bottom: 15px;
+}

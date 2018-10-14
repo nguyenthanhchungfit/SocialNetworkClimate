@@ -1,0 +1,25 @@
+.group-container{
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 10px 15px;
+}
+
+
+.group-avt{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+.group-title {
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+}
+
+.group-content{
+    padding: 15px;
+}
+
+.group-item{
+    margin: 10px 0;
+}

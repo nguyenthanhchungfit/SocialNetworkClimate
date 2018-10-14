@@ -5,16 +5,18 @@ import './styles.css';
 const Menu = () => {
   return(
       <Row className='menu-container'>
-        <Col md={3}>
+        <Col md={3} className='menu-logo'>
           <strong>Logo</strong>
         </Col>
-        <Col md={5}>
-          <input type='text' placeholder='Tìm kiếm'/>
+        <Col md={5} className='menu-search'>
+          <input type='text' placeholder='Tìm kiếm' style={{width: '100%', color: 'black'}}/>
         </Col>
         <Col md={4}>
           <span>
           Trang chủ
         </span>
+          <span>
+          </span>
         </Col>
       </Row>
   )
