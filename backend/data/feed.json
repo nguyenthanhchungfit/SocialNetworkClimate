@@ -2,6 +2,7 @@
 	"feeds": [
 	{
 		"feedId" : "f01",
+		"userName" : "Nguyen Du Du",
 		"content" : "Lorem ipsum",
 		"topic" : "nuoc_dang",
 		"imageId" : 1,
@@ -36,6 +37,7 @@
 
 	{
 		"feedId" : "f02",
+		"userName" : "Nguyen Du Du",
 		"content" : "Nguoi theo huong hoa may mu giang loi",
 		"topic" : "nuoc_dang",
 		"imageId" : 2,
