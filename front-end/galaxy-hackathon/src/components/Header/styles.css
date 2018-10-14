@@ -1,0 +1,8 @@
+.header{
+    background-color: #282c34;
+    color: white;
+}
+
+.navbar{
+    display: flex;
+}
