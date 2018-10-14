@@ -1,0 +1,104 @@
+{
+	"feeds": [
+	{
+		"feedId" : "f01",
+		"content" : "Lorem ipsum",
+		"topic" : "nuoc_dang",
+		"imageId" : 1,
+		"VideoId" : 11,
+		"location" : "TPHCM",
+		"timestamp" : 123456789,
+		"linkImage" :[
+			"localhost:3001/static/image/feeds/f01.jpg"
+		],
+		"Chart" :
+		{
+			"title" : "Line chart example",
+			"type" : "line",
+			"axes" : ["years","temporatures"],
+			"labels" : ["line_a","line_b"],
+			"datasets" : [
+			{
+				"dataset_1":
+				{
+					"x" : [10,20,30,40,50] ,
+					"y" : [15,25,35,45,55]
+				},
+				
+				"dataset_2":
+				{
+					"x" : [50,40,30,20,10] ,
+					"y" : [15,25,35,45,55]
+				}	
+			}]
+		}
+	},
+
+	{
+		"feedId" : "f02",
+		"content" : "Nguoi theo huong hoa may mu giang loi",
+		"topic" : "nuoc_dang",
+		"imageId" : 2,
+		"VideoId" : 12,
+		"location" : "Can Tho",
+		"timestamp" : 123456987,
+		"linkImage" :[
+			"localhost:3001/static/image/feeds/f02.jpg"
+		],
+		"Chart" :
+		{
+			"title" : "Bar chart example",
+			"type" : "bar",
+			"axes" : ["years","temporatures"],
+			"labels" : ["bar_a","bar_b","bar_c"],
+			"datasets" : [
+			{
+				"dataset_1":
+				{
+					"x" : [10,20,30,40,50] ,
+					"y" : [15,25,35,45,55]
+				},
+				
+				"dataset_2":
+				{
+					"x" : [50,40,30,20,10] ,
+					"y" : [15,25,35,45,55]
+				},
+				"dataset_3":
+				{
+					"x" : [50,40,30,20,10] ,
+					"y" : [55,65,75,85,95]
+				}
+			}]
+		}
+	},
+
+	{
+		"feedId" : "f03",
+		"content" : "Lan suong khoi phoi phai dua buoc ai xa roi",
+		"topic" : "lu_lut",
+		"imageId" : 3,
+		"VideoId" : 13,
+		"location" : "TPHCM",
+		"timestamp" : 123789789,
+		"linkImage" :[
+			"localhost:3001/static/image/feeds/f03.jpg"
+		],
+		"Chart" :
+		{
+			"title" : "Bar chart example2",
+			"type" : "bar",
+			"axes" : ["years","temporatures"],
+			"labels" : "None",
+			"datasets" : [
+			{
+				"dataset_1":
+				{
+					"x" : [10,20,30,40,50] ,
+					"y" : [55,45,35,25,15]
+				}
+			}]
+		}
+	}]
+ 
+}
